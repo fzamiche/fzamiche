@@ -1,16 +1,19 @@
-## Hi there 👋
+# Fata ZAMICHE - Software Engineer
 
-<!--
-**fzamiche/fzamiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software enginner avec une expertise en **Java**, **Spring Boot**, et **Angular**. 
 
-Here are some ideas to get you started:
+## Compétences
+- **Langages** : Java, Kotlin, SQL
+- **Frameworks** : Spring Boot, Angular
+- **DevOps** : Docker, Kubernetes, CI/CD
+- **Bases de données** : MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+- ** 1
+- ** 2
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/fata-zamiche)
+
+Merci de visiter mon profil !
+
