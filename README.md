@@ -13,7 +13,7 @@ Software enginner avec une expertise en **Java**, **Spring Boot**, et **Angular*
 - ** 2
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/fata-zamiche)
+[LinkedIn](https://www.linkedin.com/in/fatah-zamiche/)
 
 Merci de visiter mon profil !
 
