@@ -9,11 +9,11 @@ Software enginner avec une expertise en **Java**, **Spring Boot**, et **Angular*
 - **Bases de données** : MySQL, PostgreSQL
 
 ## Projets
-- ** 1
-- ** 2
+- ** comming soon
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/fatah-zamiche/)
+[Portfolio](https://portfolio-fatah-zamiche.pages.dev/ ) 
 
 Merci de visiter mon profil !
 
